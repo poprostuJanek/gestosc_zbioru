@@ -1,4 +1,4 @@
 gestosc_zbioru
 ==============
 
-Repoztorium dla projektu gestosc zbioru.
+Zmiana pliku w rezpozytorium gestosc zbioru. Ot tak dla wprawy.
